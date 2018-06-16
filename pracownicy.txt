@@ -1,0 +1,7 @@
+Szymon Nowak 1000.0 M 10
+Marta Kowal 2000.0 K 11
+Andrzej Duda 5000.0 M 14
+Szymon Nowak 1000.0 M 10
+Elzbieta Abcd 2000.0 K 10
+Mirek Lemski 3000.0 M 10
+Magda Ogorek 3000.0 K 10
